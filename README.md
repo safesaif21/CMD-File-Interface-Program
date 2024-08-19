@@ -28,7 +28,7 @@
 
 1. **Clone the repository:**
 
-   `bash git clone https://github.com/safesaif21/CMD-File-Interface-Program.git
+   `bash git clone https://github.com/safesaif21/CMD-File-Program.git
    `
 2. **Open Eclipse:**
    - If you haven't installed Eclipse, you can download it from the [Eclipse website](https://www.eclipse.org/downloads/).
