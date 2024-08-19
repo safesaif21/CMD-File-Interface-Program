@@ -20,7 +20,7 @@
 - **select `filename.txt`**: Moves `filename.txt` to front of display.
 - **write**: Writes text onto currently open file.
 - **resize** `height` `length`: Resizes the currently open file to the specified `height` and `length`.
-- **move** `y` `x`: Moves the currently open file to the specified `y` and `x` positions on the window screen.
+- **move** `y` `x`: Moves the currently open file to the specified `y` and `x` positions on the display screen.
 
 ## Installation
 
